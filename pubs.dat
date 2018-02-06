@@ -1,0 +1,20 @@
+@RELATION Publications
+@ATTRIBUTE method {Monte Carlo, Molecular Dyanmics, simulation}
+@ATTRIBUTE topic {nanocrystal, superlattice, self-assembly}
+@ATTRIBUTE humidity {patchy, hard, anisotropic}
+@ATTRIBUTE	interest {yes, no}
+@DATA
+Monte Carlo,Hot,High,No
+Monte Carlo,Hot,High,No
+Molecular Dynamics,Hot,High,Yes
+simulation,Mild,High,Yes
+simulation,Cool,Normal,Yes
+simulation,Cool,Normal,No
+Molecular Dynamics,Cool,Normal,Yes
+Monte Carlo,Mild,High,No
+Monte Carlo,Cool,Normal,Yes
+simulation,Mild,Normal,Yes
+Monte Carlo,Mild,Normal,Yes
+Molecular Dynamics,Mild,High,Yes
+Molecular Dynamics,Hot,Normal,Yes
+simulation,Mild,High,No

@@ -1,0 +1,22 @@
+@RELATION Publications
+@ATTRIBUTE method {mc,md}
+@ATTRIBUTE topic {nanocrystal,superlattice}
+@ATTRIBUTE	interest {yes,no}
+@DATA
+mc,nanocrystal,hard,yes
+mc,superlattice,hard,yes
+mc,nanocrystal,soft,no
+mc,nanocrystal,hard,yes
+mc,superlattice,hard,yes
+mc,nanocrystal,hard,yes
+mc,nanocrystal,hard,yes
+mc,nanocrystal,hard,yes
+mc,nanocrystal,soft,yes
+md,nanocrystal,hard,yes
+md,nanocrystal,soft,no
+md,nanocrystal,soft,no
+md,nanocrystal,hard,yes
+md,nanocrystal,soft,no
+md,superlattice,soft,yes
+md,nanocrystal,soft,no
+md,superlattice,soft,yes

@@ -1,0 +1,53 @@
+@RELATION Publications
+@ATTRIBUTE method {mc,md}
+@ATTRIBUTE topic {nanocrystal,superlattice}
+@ATTRIBUTE interaction {hard,soft}
+@ATTRIBUTE	interest {yes,no}
+@DATA
+mc,nanocrystal,hard,yes
+mc,superlattice,hard,yes
+mc,nanocrystal,hard,yes
+mc,nanocrystal,hard,yes
+mc,nanocrystal,soft,yes
+mc,nanocrystal,hard,yes
+mc,nanocrystal,hard,yes
+md,superlattice,soft,no
+md,nanocrystal,soft,no
+md,nanocrystal,hard,no
+md,nanocrystal,soft,no
+md,nanocrystal,soft,yes
+md,superlattice,soft,no
+md,superlattice,soft,yes
+md,nanocrystal,soft,no
+md,superlattice,soft,no
+md,nanocrystal,soft,no
+md,nanocrystal,soft,yes
+md,superlattice,hard,yes
+md,nanocrystal,hard,no
+md,nanocrystal,hard,yes
+md,superlattice,hard,no
+md,superlattice,hard,yes
+md,nanocrystal,hard,yes
+md,superlattice,soft,no
+md,nanocrystal,soft,no
+md,nanocrystal,hard,yes
+md,nanocrystal,hard,yes
+md,nanocrystal,hard,yes
+md,nanocrystal,hard,yes
+md,nanocrystal,hard,yes
+md,nanocrystal,hard,yes
+mc,nanocrystal,hard,yes
+mc,nanocrystal,hard,no
+mc,nanocrystal,hard,yes
+mc,nanocrystal,hard,yes
+mc,superlattice,soft,yes
+mc,nanocrystal,soft,yes
+mc,nanocrystal,hard,yes
+mc,nanocrystal,hard,yes
+mc,superlattice,hard,yes
+mc,nanocrystal,hard,yes
+mc,nanocrystal,hard,yes
+mc,nanocrystal,hard,yes
+mc,nanocrystal,hard,yes
+mc,nanocrystal,hard,yes
+mc,nanocrystal,hard,yes
